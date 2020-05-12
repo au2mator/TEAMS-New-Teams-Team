@@ -11,7 +11,7 @@ This Script can be used to add a Maintenance Mode Schedule
 
 
 # Demo
-![Demo](Demo/Demo.gif)
+![Demo](Demo/NewTeamsTeam-GithubDemo.gif)
 
 
 # Getting Started
