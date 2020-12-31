@@ -7,7 +7,7 @@ au2mator - Self Service Portal is providing a Frontend to trigger your Microsoft
 - <a href="https://www.au2mator.com/Powershell/?utm_source=github&utm_medium=social&utm_campaign=M365_NewTeamsTeam&utm_content=Readme" target="_blank">Powershell</a>
 - System Center SMA
 
-Create a new Microsodft Teams Team with Graph API and au2mator - Self Service Portal
+Create a new Microsoft Teams Team with Graph API and au2mator - Self Service Portal
 
 
 # Demo
